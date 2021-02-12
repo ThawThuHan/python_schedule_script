@@ -11,9 +11,9 @@ Options:
 None
 </p>
 
-<h1> To Run python script as a background Service </h1>
+<h1>To Run python script as a background Service </h1>
 
-<p> run this command </p>
+<p>run this command </p>
 
 <p>nohup python3 -u /home/thawthuhan/Desktop/Schedule_delete_per_minute.py -n 2 -p [filePath] >> output.log &</p>
 <p>don't forget & (end of command line) <p>
