@@ -17,4 +17,5 @@ None
 
 <p>nohup python3 -u /home/thawthuhan/Desktop/Schedule_delete_per_minute.py -n 2 -p [filePath] >> output.log &</p>
 <p>don't forget & (end of command line) <p>
-<p>and then you can check log in output.log</p>
+<p>and then you can check log in output.log and check process using ps aux | grep Schedule_delete_per_minute.py</p>
+<p>to kill process using kill %PID</p>
